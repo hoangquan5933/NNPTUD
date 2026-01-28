@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Bài viết số 1",
+      "body": "Nội dung bài viết",
+      "isDeleted": true
+    },
+    {
+      "id": "2",
+      "title": "AWD",
+      "body": "d",
+      "isDeleted": false
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "content": "ad",
+      "isDeleted": false
+    }
+  ]
+}
